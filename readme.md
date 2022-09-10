@@ -1,14 +1,14 @@
-### Project 1 - Street Style Landing Page
----
-<br>
-
 #### Name: Sugnana Murthy R
 ---
+
+#### Project 1 - Street Style Landing Page
+---
+
+<br>
 
 ![Developed Using HTML](https://img.shields.io/badge/Developed%20Using-HTML%20%26%20CSS-yellowgreen)
 
 ---
-<br>
 
 #### Skills Accquired
 - Navigation bar using CSS & flex
