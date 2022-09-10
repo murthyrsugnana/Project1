@@ -2,6 +2,9 @@
 ---
 <br>
 
+#### Name: Sugnana Murthy R
+---
+
 ![Developed Using HTML](https://img.shields.io/badge/Developed%20Using-HTML%20%26%20CSS-yellowgreen)
 
 ---
@@ -24,5 +27,5 @@
 ---
 <br>
 
-[![Project Demo](https://img.shields.io/badge/Project%20Demo-Click%20Here%20for%20%20Live%20Link-yellowgreen?style=flat-square&logo=Product%20Hunt)]()
+[![Project Demo](https://img.shields.io/badge/Project%20Demo-Click%20Here%20for%20%20Live%20Link-yellowgreen?style=flat-square&logo=Product%20Hunt)](https://smrproject1.netlify.app/)
 ##### Time Taken: 5 hours (approx)
